@@ -9,6 +9,6 @@ workflow automations: lead capture, AI email assistants, Telegram bots, API inte
 ## Projects
 | Project | What it does | Demo |
 |---|---|---|
-| [Instant Lead Response System](./instant-lead-response) | Responds to every new lead in under 5 seconds — logs, emails, alerts | [▶ Watch (2 min)](YOUR-YOUTUBE-LINK) |
+| [Instant Lead Response System](./instant-lead-response) | Responds to every new lead in under 5 seconds — logs, emails, alerts | [▶ Watch (2 min)]([YOUR-YOUTUBE-LINK](https://youtu.be/ksA84ke4Aoc)) |
 
 📩 Available for freelance automation work.
